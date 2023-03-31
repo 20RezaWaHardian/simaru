@@ -64,13 +64,13 @@
           </div>
         </div>
       </div>
-      <div class="separator separator-bottom separator-skew zindex-100">
+      {{-- <div class="separator separator-bottom separator-skew zindex-100">
         <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
           <polygon class="fill-default" points="2560 0 2560 100 0 100"></polygon>
         </svg>
-      </div>
+      </div> --}}
     </div>
-    <section class="py-6 pb-9 bg-default">
+    {{-- <section class="py-6 pb-9 bg-default">
       <div class="row justify-content-center text-center">
         <div class="col-md-6">
           <h2 class="display-3 text-white">A complete HTML solution</h3>
@@ -319,6 +319,6 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> --}}
   </div>
   @endsection
